@@ -1,8 +1,10 @@
 tmp/
 prototypes/
+*.exe
 *.prof
 *.mprof
 *.cprof
+notes.txt
 Thumbs.db
 Desktop.ini
 .DS_Store
