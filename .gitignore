@@ -1,0 +1,8 @@
+tmp/
+prototypes/
+*.prof
+*.mprof
+*.cprof
+Thumbs.db
+Desktop.ini
+.DS_Store
